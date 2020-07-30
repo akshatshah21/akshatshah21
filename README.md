@@ -10,12 +10,27 @@
 [![Telegram](https://img.shields.io/badge/Hades__218-9cf?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hades_218)
 [![WordPress](https://img.shields.io/badge/imagination_boundless-21759b?style=for-the-badge&logo=wordpress&logoColor=white)](https://imaginationboundless.wordpress.com/)
 
-- **Always Learning**: Web Development  :globe_with_meridians:  |  Competitive Programming  :nerd_face:  |  Machine Learning  :chart:
+### Always Learning
+Web Development  :globe_with_meridians:  |  Competitive Programming  :nerd_face:  |  Machine Learning  :chart: 
+
+
 - **Languages**: C++  :fire:  |  Python  :cool:  |  JavaScript  :yellow_heart:  |  C  :monocle_face:  |  Java  :man_shrugging:
 - **Interests**: Reading  :green_book:  |  Writing  :writing_hand:  |  TV & Movies  :clapper: 
 - **Motto**: _Always have a motto_
 
-[![Akshat's Github stats](https://github-readme-stats.vercel.app/api?username=akshatshah21)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <span align="left">
+    <a align="left" href="href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=akshatshah21&show_icons=true&theme=gruvbox" alt="Akshat's Github Stats">
+    </a>
+  </span>
+  <span align="right">                                                                                                                  
+    <a align="right" href="href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatshah21&layout=compac&show_icons=true&theme=gruvboxt" alt="Akshat's Top Languages">
+    </a>
+  </span>
+</div>
 
 <!--
 **akshatshah21/akshatshah21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

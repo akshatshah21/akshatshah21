@@ -14,6 +14,9 @@
 - **Languages**: C++  :fire:  |  Python  :cool:  |  JavaScript  :yellow_heart:  |  C  :monocle_face:  |  Java  :man_shrugging:
 - **Interests**: Reading  :green_book:  |  Writing  :writing_hand:  |  TV & Movies  :clapper: 
 - **Motto**: _Always have a motto_
+
+[![Akshat's Github stats](https://github-readme-stats.vercel.app/api?username=akshatshah21)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **akshatshah21/akshatshah21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,14 @@
+<style>
+  img[src$="centerme"] {
+    display:block;
+    margin: 0 auto;
+  }
+</style>
+
 <h1 align="center">Hey, I'm Akshat! 👋</h1>
 <p align="center">Third Year Information Technology student :man_student: at <a href="https://vjtimumbai.in/">VJTI</a>, Mumbai :green_heart:</p>
 
-![LinkedIn](https://img.shields.io/badge/akshatshah__21-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white?link=https://www.linkedin.com/in/akshatshah21) 
+![LinkedIn](https://img.shields.io/badge/akshatshah__21-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white?link=https://www.linkedin.com/in/akshatshah21?align=centerme)  
 ![Devfolio](https://img.shields.io/badge/Devfolio-akshatshah__21-3770ff?style=for-the-badge&?link=https://devfolio.co/@akshatshah_21)  
 ![Codeforces](https://img.shields.io/badge/hades__21-lightgrey?style=for-the-badge&logo=codeforces&logoColor=white?link=https://codeforces.com/profile/hades_21) 
 ![Codechef](https://img.shields.io/badge/hades__21-5b4638?style=for-the-badge&logo=codechef&logoColor=white?link=https://www.codechef.com/users/hades_21)  

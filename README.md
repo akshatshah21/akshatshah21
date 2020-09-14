@@ -21,7 +21,7 @@ Web Development  :globe_with_meridians:  |  Competitive Programming  :nerd_face:
 
 <div align="center">
   <span align="left">
-    <a align="left" href="href="https://github.com/anuraghazra/github-readme-stats">
+    <a align="left" href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=akshatshah21&show_icons=true&theme=gruvbox" alt="Akshat's Github Stats">
     </a>
   </span>

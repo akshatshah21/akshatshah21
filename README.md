@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/anshah__b18%40it.vjti.ac.in-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshah_b18@it.vjti.ac.in)  
 [![Codeforces](https://img.shields.io/badge/hades__21-green?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hades_21)
 [![Codechef](https://img.shields.io/badge/hades__21-5b4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/hades_21)  
-[![WordPress](https://img.shields.io/badge/imagination_boundless-21759b?style=flat-square&logo=wordpress&logoColor=white)](https://imaginationboundless.wordpress.com/)
+[![WordPress](https://img.shields.io/badge/Imagination%20Boundless-21759b?style=flat-square&logo=wordpress&logoColor=white)](https://imaginationboundless.wordpress.com/)
 
 ### Always Learning
 Web Development  :globe_with_meridians:  |  Competitive Programming  :nerd_face:  |  Machine Learning  :chart: 

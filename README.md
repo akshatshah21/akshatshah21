@@ -24,7 +24,7 @@ Web Development  :globe_with_meridians:  |  Competitive Programming  :nerd_face:
     </a>
   </span>
   <span align="right">                                                                                                                  
-    <a align="right" href="href="https://github.com/anuraghazra/github-readme-stats">
+    <a align="right" href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatshah21&layout=compac&show_icons=true" alt="Akshat's Top Languages">
     </a>
   </span>

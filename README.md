@@ -17,18 +17,21 @@ Web Development  :globe_with_meridians:  |  Competitive Programming  :nerd_face:
 - **Motto**: _Always have a motto_
 
 
-<div align="center">
-  <span align="left">
-    <a align="left" href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=akshatshah21&show_icons=true" alt="Akshat's Github Stats">
-    </a>
-  </span>
-  <span align="right">                                                                                                                  
-    <a align="right" href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatshah21&layout=compac&show_icons=true" alt="Akshat's Top Languages">
-    </a>
-  </span>
-</div>
+<p align="center">
+  <a align="left" href="https://github.com/anuraghazra/github-readme-stats" title="github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=akshatshah21&show_icons=true" alt="Akshat's Github Stats">
+  </a>
+</p>
+<p align="center">                                                                                                                  
+  <a align="right" href="https://github.com/anuraghazra/github-readme-stats" title="github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatshah21&layout=compac&show_icons=true" alt="Akshat's Top Languages">
+  </a>
+</p>
+<p align="center">                                                                                                                  
+  <a align="right" href="https://github.com/DenverCoder1/github-readme-streak-stats" title="github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatshah21" alt="Akshat's Streaks">
+  </a>
+</p>
 
 <!--
 **akshatshah21/akshatshah21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Akshat! 👋</h1>
-<p align="center">Third Year Information Technology student :man_student: at <a href="https://vjtimumbai.in/">VJTI</a>, Mumbai :green_heart:</p>
+<p align="center">Final Year Information Technology student :man_student: at <a href="https://vjtimumbai.in/">VJTI</a>, Mumbai :green_heart:</p>
 
 [![LinkedIn](https://img.shields.io/badge/akshatshah__21-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshatshah21)
 [![Ymail](https://img.shields.io/badge/akshatshah__21%40yahoo.in-6001d2?style=for-the-badge&logo=yahoo!)](mailto:akshatshah_21@yahoo.in)
@@ -9,7 +9,7 @@
 [![WordPress](https://img.shields.io/badge/Imagination%20Boundless-21759b?style=for-the-badge&logo=wordpress&logoColor=white)](https://imaginationboundless.wordpress.com/)
 
 ### Always Learning
-Web Development  :globe_with_meridians:  |  Competitive Programming  :nerd_face:  |  Machine Learning  :chart: 
+Web Development  :globe_with_meridians:  |  Machine Learning  :chart:  |  Competitive Programming  :nerd_face: 
 
 
 - **Languages**: C++  :fire:  |  Python  :cool:  |  JavaScript  :yellow_heart:  |  C  :monocle_face:  |  Java  :man_shrugging:

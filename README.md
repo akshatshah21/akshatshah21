@@ -1,5 +1,8 @@
-<h1 align="center">Hey, I'm Akshat! 👋</h1>
-<p align="center">Final Year Information Technology student :man_student: at <a href="https://vjtimumbai.in/">VJTI</a>, Mumbai :green_heart:</p>
+![Header](/header.png)
+
+
+<p align="center">Final Year Information Technology student 👨‍🎓 at <a href="https://vjtimumbai.in/">VJTI</a>, Mumbai 💚	</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,11 +20,11 @@
 </p>
 
 ### Always Learning
-Web Development  :globe_with_meridians:  |  Machine Learning  :chart:  |  Competitive Programming  :nerd_face: 
+Web Development  🌐  |  Machine Learning  📈	  |  Competitive Programming  🤓
 
 
-- **Languages**: C++  :fire:  |  Python  :cool:  |  JavaScript  :yellow_heart:  |  C  :monocle_face:  |  Java  :man_shrugging:
-- **Interests**: Reading  :green_book:  |  Writing  :writing_hand:  |  TV & Movies  :clapper: 
+- **Languages**: C++  🔥  |  Python  🆒  |  JavaScript  💛  |  C  🧐
+- **Interests**: Reading  📗  |  Writing  ✍ |  TV & Movies  🎬
 - **Motto**: _Always have a motto_
 
 
@@ -39,7 +42,13 @@ Web Development  :globe_with_meridians:  |  Machine Learning  :chart:  |  Compet
   <a align="right" href="https://github.com/DenverCoder1/github-readme-streak-stats" title="github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatshah21" alt="Akshat's Streaks">
   </a>
+  <a align="right" href="https://stackoverflow.com/users/12114918/akshat-shah" title="Akshat Shah's StackOverflow Profile">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=12114918" alt="Akshat Shah's StackOverflow Stats">
+  </a>
+
 </p>
+
+
 
 ### Blog posts
 

@@ -1,12 +1,20 @@
 <h1 align="center">Hey, I'm Akshat! 👋</h1>
 <p align="center">Final Year Information Technology student :man_student: at <a href="https://vjtimumbai.in/">VJTI</a>, Mumbai :green_heart:</p>
 
-[![LinkedIn](https://img.shields.io/badge/akshatshah__21-0077b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshatshah21)
-[![Ymail](https://img.shields.io/badge/akshatshah__21%40yahoo.in-6001d2?style=for-the-badge&logo=yahoo!)](mailto:akshatshah_21@yahoo.in)
-[![Gmail](https://img.shields.io/badge/anshah__b18%40it.vjti.ac.in-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshah_b18@it.vjti.ac.in)  
-[![Codeforces](https://img.shields.io/badge/hades__21-green?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hades_21)
-[![Codechef](https://img.shields.io/badge/hades__21-5b4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/hades_21)  
-[![WordPress](https://img.shields.io/badge/Imagination%20Boundless-21759b?style=for-the-badge&logo=wordpress&logoColor=white)](https://imaginationboundless.wordpress.com/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/akshatshah21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akshatshah21" height="30" width="40" /></a>
+<a href="https://twitter.com/akshatshah21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshatshah21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akshatshah21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshatshah21" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12114918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12114918" height="30" width="40" /></a>
+<a href="https://medium.com/@akshatshah21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akshatshah21" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/hades_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hades_21" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akshatshah21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshatshah21" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/akshatshah21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akshatshah21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akshatshah21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshatshah21" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@hades_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@hades_21" height="30" width="40" /></a>
+<a href="/https://akshatshah21.github.io/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://akshatshah21.github.io/index.xml" height="30" width="40" /></a>
+</p>
 
 ### Always Learning
 Web Development  :globe_with_meridians:  |  Machine Learning  :chart:  |  Competitive Programming  :nerd_face: 
@@ -17,7 +25,7 @@ Web Development  :globe_with_meridians:  |  Machine Learning  :chart:  |  Compet
 - **Motto**: _Always have a motto_
 
 
-<p align="center">
+<!-- <p align="center">
   <a align="left" href="https://github.com/anuraghazra/github-readme-stats" title="github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=akshatshah21&show_icons=true" alt="Akshat's Github Stats">
   </a>
@@ -26,7 +34,7 @@ Web Development  :globe_with_meridians:  |  Machine Learning  :chart:  |  Compet
   <a align="right" href="https://github.com/anuraghazra/github-readme-stats" title="github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatshah21&layout=compac&show_icons=true" alt="Akshat's Top Languages">
   </a>
-</p>
+</p> -->
 <p align="center">                                                                                                                  
   <a align="right" href="https://github.com/DenverCoder1/github-readme-streak-stats" title="github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatshah21" alt="Akshat's Streaks">

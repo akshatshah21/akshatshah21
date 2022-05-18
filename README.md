@@ -42,6 +42,7 @@ Web Development  🌐  |  Machine Learning  📈	  |  Competitive Programming  �
   <a align="right" href="https://github.com/DenverCoder1/github-readme-streak-stats" title="github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatshah21" alt="Akshat's Streaks">
   </a>
+  <br>
   <a align="right" href="https://stackoverflow.com/users/12114918/akshat-shah" title="Akshat Shah's StackOverflow Profile">
     <img src="https://github-readme-stackoverflow.vercel.app/?userID=12114918" alt="Akshat Shah's StackOverflow Stats">
   </a>

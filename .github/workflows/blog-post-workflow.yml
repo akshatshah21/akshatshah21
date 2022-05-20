@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs every day
-    - cron: '0 0 * * *'
+    - cron: '* * * * *'
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: 'https://akshatshah21.github.io/index.xml, https://dev.to/feed/akshatshah21, https://medium.com/feed/@akshatshah21'
+          feed_list: 'https://akshatshah21.github.io/index.xml'

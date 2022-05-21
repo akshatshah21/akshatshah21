@@ -54,11 +54,11 @@ Web Development  🌐  |  Machine Learning  📈	  |  Competitive Programming  �
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Pandemonium](https://dev.to/akshatshah21/project-pandemonium-33fm)
 - [Project Pandemonium](http://akshatshah21.github.io/project-pandemonium/)
-- [A Guide to Install TeX on Linux](https://dev.to/akshatshah21/a-guide-to-install-tex-on-linux-11jc)
-- [Coding Problem: Two Sum](https://dev.to/akshatshah21/coding-problem-two-sum-1cnj)
 - [Reading List: October 2021](http://akshatshah21.github.io/reading-list-oct-2021/)
+- [Making a Simple ERC20 Token](http://akshatshah21.github.io/erc20/)
+- [Reading List: September 2021](http://akshatshah21.github.io/reading-list-sept-2021/)
+- [A Guide to Install TeX on Linux](http://akshatshah21.github.io/tex-install-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--

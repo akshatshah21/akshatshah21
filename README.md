@@ -54,11 +54,11 @@ Web Development  🌐  |  Machine Learning  📈	  |  Competitive Programming  �
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Coding Problem: Array of Product Except Self](http://akshatshah21.github.io/dcp-2/)
 - [Project Pandemonium](http://akshatshah21.github.io/project-pandemonium/)
 - [Reading List: October 2021](http://akshatshah21.github.io/reading-list-oct-2021/)
 - [Making a Simple ERC20 Token](http://akshatshah21.github.io/erc20/)
 - [Reading List: September 2021](http://akshatshah21.github.io/reading-list-sept-2021/)
-- [A Guide to Install TeX on Linux](http://akshatshah21.github.io/tex-install-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--

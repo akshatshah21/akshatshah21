@@ -54,11 +54,11 @@ Web Development  🌐  |  Machine Learning  📈	  |  Competitive Programming  �
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode 75 - Part 1 - Array/String](http://akshatshah21.github.io/lc75-1/)
 - [Circuit Breaker - Hope is not a Design Method](http://akshatshah21.github.io/circuit-breaker/)
 - [Coding Problem: Array of Product Except Self](http://akshatshah21.github.io/dcp-2/)
 - [Project Pandemonium](http://akshatshah21.github.io/project-pandemonium/)
 - [Reading List: October 2021](http://akshatshah21.github.io/reading-list-oct-2021/)
-- [Making a Simple ERC20 Token](http://akshatshah21.github.io/erc20/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--

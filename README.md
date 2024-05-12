@@ -54,11 +54,11 @@ Web Development  🌐  |  Machine Learning  📈	  |  Competitive Programming  �
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LeetCode 75 - Part 4 - Prefix Sum](http://akshatshah21.github.io/lc75-4/)
+- [LeetCode 75 - Part 3 - Sliding Window](http://akshatshah21.github.io/lc75-3/)
 - [LeetCode 75 - Part 2 - Two Pointers](http://akshatshah21.github.io/lc75-2/)
 - [LeetCode 75 - Part 1 - Array/String](http://akshatshah21.github.io/lc75-1/)
 - [Circuit Breaker - Hope is not a Design Method](http://akshatshah21.github.io/circuit-breaker/)
-- [Coding Problem: Array of Product Except Self](http://akshatshah21.github.io/dcp-2/)
-- [Project Pandemonium](http://akshatshah21.github.io/project-pandemonium/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--

@@ -1,9 +1,5 @@
 ![Header](/header.png)
 
-
-<p align="center">Final Year Information Technology student 👨‍🎓 at <a href="https://vjtimumbai.in/">VJTI</a>, Mumbai 💚	</p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/akshatshah21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akshatshah21" height="30" width="40" /></a>
@@ -23,9 +19,9 @@
 Web Development  🌐  |  Machine Learning  📈	  |  Competitive Programming  🤓
 
 
-- **Languages**: C++  🔥  |  Python  🆒  |  JavaScript  💛  |  C  🧐
+- **Languages**: Python  🆒  |  JavaScript  💛  |  C#  🧐  |  C++  🔥
 - **Interests**: Reading  📗  |  Writing  ✍ |  TV & Movies  🎬
-- **Motto**: _Always have a motto_
+- **Motto**: _"Always have a motto"_
 
 
 <!-- <p align="center">
